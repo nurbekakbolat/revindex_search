@@ -1,0 +1,12 @@
+/books
+*.o
+502sh
+revindex_threads
+revindex_sequential
+
+*.txt
+
+books/
+
+.DS_Store
+*.swp
